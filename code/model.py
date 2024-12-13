@@ -47,9 +47,9 @@ class Generator:
         """
         self.epoch_number = Config["epoch_number"]
         self.device = torch.device(f"cuda:{Config['cuda_index']}" if torch.cuda.is_available() else "cpu")
-        self.tokenizer = AutoTokenizer.from_pretrained('google/byt5-base', max_length=256)
+        self.tokenizer = AutoTokenizer.from_pretrained('saadamin2k13/urdu_semantic_parsing', max_length=256)
 
-        self.model = T5ForConditionalGeneration.from_pretrained('google/byt5-base', max_length=256)
+        self.model = T5ForConditionalGeneration.from_pretrained('saadamin2k13/urdu_semantic_parsing', max_length=256)
         self.model.to(self.device)
 
     def evaluate(self, val_loader, save_path):
