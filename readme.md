@@ -32,18 +32,23 @@ For the semantic parsing model for Urdu see (https://huggingface.co/saadamin2k13
 <img width="491" alt="Screenshot 2024-12-13 at 17 55 16" src="https://github.com/user-attachments/assets/1abcb119-ee2d-4262-a828-b101a9fbc293" />
 
 **5. The table below represents our results for counter-evaluation of text generation through gen-pars.**
+
 <img width="491" alt="Screenshot 2024-12-13 at 17 55 26" src="https://github.com/user-attachments/assets/36fcd712-7e17-44a7-8b82-a1cf914fc64e" />
 
 **6. Evaluating PARS through PARS-GEN by taking examples from Table 1.**
+
 <img width="944" alt="Screenshot 2024-12-13 at 17 55 52" src="https://github.com/user-attachments/assets/556564e1-d643-427d-964e-459fdba65886" />
 
 **7. Evaluating GEN through GEN-PARS by taking examples from Table 2.**
+
 <img width="944" alt="Screenshot 2024-12-13 at 17 56 03" src="https://github.com/user-attachments/assets/219c5a09-d707-4253-be76-9e08ac7c1b7f" />
 
 **8. Correlation results for PARS and PARS-GEN.**
+
 <img width="468" alt="Screenshot 2024-12-13 at 17 56 21" src="https://github.com/user-attachments/assets/7be99364-f60d-409d-a9a8-791472da45f5" />
 
 **9. Correlation results for GEN and GEN-PARS.**
+
 <img width="474" alt="Screenshot 2024-12-13 at 17 56 31" src="https://github.com/user-attachments/assets/9037b46f-0835-4002-aa13-70c6c4d74368" />
 
 
