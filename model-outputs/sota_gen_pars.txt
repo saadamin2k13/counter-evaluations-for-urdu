@@ -1,0 +1,900 @@
+vegetable.n.01 person.n.01 foot.n.01 PartOf -1 bat.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 call.v.03 Agent -2 Recipient -1 Time +1 time.n.08 TPR now
+land.n.01 balloon.n.01 balloon.n.01 adjacent.a.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "کیرنسکی" walk.v.01 Theme -1 Time +1 time.n.08 TPR now
+bed.n.01 cost.v.01 Theme -1 Value +3 Time +4 quantity.n.01 APX +1 quantity.n.01 EQU 2 euro.n.01 Quantity -2 time.n.08 EQU now
+person.n.01 Role +1 soldier.n.01 contrast.n.02 break.v.03 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+man.n.01 guitar.n.01 play.v.07 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+time.n.08 YearOfCentury 1969 school.n.03 foster.v.02 Time -2 Theme -1 Time +1 time.n.08 TPR now
+ball.n.01 person.n.01 EQU speaker ball.n.01 dump.v.02 Stimulus -2 Experiencer -1 Time +1 time.n.08 TPR now
+goat.n.01 orange.n.01 make.v.06 Product -2 Material -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker german.n.01 NEGATION <1 understand.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 room.n.01 be.v.03 Theme -2 Location -1 Time +1 time.n.08 EQU now
+male.n.02 golf.n.01 play.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" bow.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker sanctity.n.01 pay.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 person.n.01 EQU hearer worried.a.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU hearer ask.v.01 Agent -2 Recipient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" long_truck.n.01 drive.v.02 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+SubOf +1 person.n.01 EQU speaker water.n.06 want.v.01 Pivot -3 Theme -1 Time +1 time.n.08 EQU now
+female.n.02 female.n.02 ANA -1 room.n.01 User -1 white.a.01 ColourOf -1 dye.v.01 Agent -3 Patient -1 Time +1 time.n.08 EQU now
+female.n.02 secret.n.01 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+meat.n.01 lazy.a.02 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker NEGATION <1 morning.n.01 NEGATION <1 wake_up.v.02 Agent -2 Time -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 person.n.01 Role +1 wife.n.01 Of -2 leave.v.01 Theme -4 Source -2 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer coffee.n.01 be.v.03 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 carpet.n.01 person.n.01 ANA -2 person.n.01 Role +1 grandfather.n.01 Of -2 person.n.01 Role +1 grandmother.n.01 Of -2 bring_up.v.01 Agent -5 Beneficiary -3 Theme -1 Time +1 time.n.08 TPR now
+female.n.02 Name "مریم" entity.n.01 Sub -1 Sub +1 Quantity +2 female.n.02 Name "کیٹ" monopoly.n.03 time.n.08 EQU now monopoly.n.03 Attribute -1 time.n.08 EQU now
+female.n.02 Name "نینسی ایانیرو" country.n.02 Name "میکسیکو" kill.v.01 Patient -2 Location -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker ashamed.a.01 Experiencer -1 Time +1 NEGATION <1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 EQU hearer forgive.v.01 Agent -2 Theme -1 Time +1 time.n.08 TSU now
+person.n.01 Sub speaker person.n.01 Role +1 enemy.n.01 hate.v.01 Experiencer -3 Stimulus -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker city.n.01 Name "ساپورو" be.v.03 Theme -2 Source -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 female.n.02 ANA -1 female.n.02 ANA -3 female.n.02 ANA -3 female.n.02 ANA -4 present.a.02 AttributeOf -2 Agent -1 Time +1 time.n.08 TPR now
+entity.n.01 very.r.01 salty.a.02 AttributeOf -2 Degree -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 EQU hearer as.r.01 Theme -2 Co-Theme -1 famous.a.01 AttributeOf -3 Degree -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker coffee_toast.n.01 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker law.n.02 NEGATION <1 break.v.06 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 person.n.01 Sub speaker NEGATION <1 know.v.04 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 Name "اویلوف" entity.n.01 InstanceOf +1 EQU ? collation.n.01 Name ? mean.v.03 Agent -3 Theme -2 Time +1 time.n.08 TPR now
+male.n.02 Name "لیو بی" entity.n.01 Sub -1 Sub +1 team.n.01 Name "ژوگے لیانگ" irrational.a.01 AttributeOf +1 team.n.01 be.v.01 Theme -4 Co-Theme -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker unarmed.a.01 AttributeOf -1 Time +1 time.n.08 TPR now
+male.n.02 Name "جان ڈلنگر" die.v.01 Patient -1 Manner +1 Time +2 manner.n.01 EQU ? time.n.08 TPR now
+person.n.01 funny.a.01 AttributeOf +1 story.n.01 write.v.01 Agent -3 Result -1 Time +1 time.n.08 TPR now
+ball.n.01 male.n.02 Name "ٹام" trap.v.01 Theme -2 Agent -1 Time +1 time.n.08 TPR now
+national.a.01 AttributeOf +1 person.n.01 Role +1 national.n.02 kiss.v.01 Agent -3 Co-Agent -2 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker live.v.01 Theme -1 Time +1 time.n.08 TPR now
+accident.n.01 quantity.n.01 EQU 3 person.n.01 Quantity -1 kill.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker quantity.n.01 EQU 24 pencil.n.01 Quantity -1 buy.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 SubOf +1 person.n.01 Sub speaker NEGATION <1 look.v.04 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 help.v.01 Agent -2 Beneficiary -1 Time +1 time.n.08 TSU now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" lick.v.02 Agent -2 Experiencer -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now restaurant.n.01 open.a.01 Time -2 AttributeOf -1
+time.n.08 TPR now rose.n.01 bronze.v.01 Time -2 Patient -1
+male.n.02 Name "کیتھیڈرل" middle_aged.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" win.v.01 Agent -1 Time +1 NEGATION <1 time.n.08 TPR now
+person.n.01 person.n.01 ANA -1 hand.n.01 PartOf -1 chew.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+time.n.08 ClockTime 00:00 NEGATION <1 person.n.01 NEGATION <1 enter.v.01 Time -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker male.n.02 Name "ٹام" see.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" walk.v.01 Theme -1 Time +1 time.n.08 TPR now
+rabbit.n.01 broadcasting_station.n.01 capture.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker male.n.02 Name "ٹام" entity.n.01 NEGATION <1 sell.v.01 Agent -3 Beneficiary -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 tv.n.01 see.v.01 Experiencer -3 Stimulus -2 Instrument -1 Time +1 time.n.08 TPR now
+music.n.01 right.a.01 AttributeOf +1 corner.n.03 PartOf -2 hurt.v.01 Patient -4 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" dinner.n.01 cook.v.01 Agent -3 Beneficiary -2 Product -1 Time +1 time.n.08 TPR now
+dog.n.01 ball.n.01 chase.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 Role +1 doctor.n.01 be.v.08 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+female.n.02 Name "بیٹی" time.n.01 Quantity 3 climb.v.01 Theme -2 Frequency -1 Time +1 time.n.08 TPR now
+person.n.01 lipstick.n.01 quantity.n.01 EQU 10 dollar.n.01 Quantity -1 pay.v.01 Agent -4 Theme -3 Asset -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 believe.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 female.n.02 wrong.a.01 AttributeOf -1 Time +1 time.n.08 TPR now
+boat.n.01 lake.n.01 cross.v.01 Theme -2 Destination -1 Time +1 time.n.08 EQU now
+male.n.02 Name "لنکن" die.v.01 Patient -1 Time +1 time.n.08 YearOfCentury 1865 time.n.08 TPR now
+person.n.01 EQU speaker blame.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" beauty.n.01 afraid.a.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" quantity.n.01 EQU 30 point.n.02 Quantity -1 earn.v.02 Theme -3 Value -1 Time +1 time.n.08 TPR now
+EQU speaker person.n.01 deny.v.05 Beneficiary -1 Agent +1 Theme +2 time.n.08 EQU now NEGATION <1 time.n.08 EQU now NEGATION <1 time.n.08 EQU now NEGATION <1 time.n.08 EQU now NEGATION <1 time.n.08 EQU now NEGATION <1 time.n.08 EQU now NEGATION <1 time.n.08 EQU now NEGATION <1 time.n.08 EQU now NEGATION <1 time.n.08 EQU now NEGATION <1 time.n.08 EQU now deny.v.05 Theme -2 Agent -1 Time +1 time.n.08 EQU now
+cat.n.01 hand.n.01 PartOf -1 floor.n.01 hide.v.02 Agent -3 Location -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 hug.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+dog.n.01 cat.n.01 chase.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now animal.n.01 buzz.v.01 Time -2 Agent -1
+person.n.01 EQU speaker quantity.n.01 EQU 10 guitar.n.01 Quantity -1 play.v.07 Theme -3 Path -1 push.v.01 Agent -4 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" new.a.01 AttributeOf +1 pc_up.n.01 buy.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+NEGATION <1 normal.a.01 AttributeOf +1 price.n.01 NEGATION <1 more.r.01 Theme -2 Co-Theme -1 Time +1 time.n.08 TPR now
+boy.n.01 park.n.02 walk.v.01 Theme -2 Destination -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ایلس" male.n.02 ANA -1 room.n.01 User -1 push.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker hour.n.01 wait.v.01 Theme -2 Duration -1 Time +1 time.n.08 TPR now CONTRAST <1 male.n.02 ANA -3 wait.v.01 Theme -1 Time +1 NEGATION <1 time.n.08 TPR now
+person.n.01 EQU speaker pulse.n.03 Creator -1 lazy.a.02 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 ANA -1 arm.n.01 PartOf -1 location.n.01 SZN -1 throw.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+ship.n.01 ship.n.01 pier.n.01 capture.v.02 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer first_name.n.01 Bearer -1 entity.n.01 EQU ? be.v.02 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer person.n.01 EQU speaker bmw.n.01 User -1 bmw.n.02 User -1 finish_off.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+ship.n.01 NEGATION <1 NEGATION <1 entity.n.01 NEGATION <1 entity.n.01 NEGATION <1 need.v.02 Pivot -3 Theme -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker suitcase.n.01 User -1 broken.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ڈین" female.n.02 Name "لنڈا" drink.n.01 sell.v.01 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 Role +1 backer.n.01 be.v.08 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU speaker shoulder.n.01 PartOf -1 put.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker passport.n.01 User -1 steal.v.01 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 ANA -1 person.n.01 Role +1 brother.n.01 Of -2 less.r.01 Theme -4 Co-Theme -2 pregnant.a.01 AttributeOf -5 Degree -1 Time +1 time.n.08 EQU now
+person.n.01 Role +1 drunken_sumglasses.n.01 airport.n.01 arrest.v.01 Patient -3 Time +1 time.n.08 TPR now
+watch.n.01 quantity.n.01 EQU 10 minute.n.01 Quantity -1 slow.a.04 Theme -3 Value -1 Time +1 time.n.08 EQU now
+country.n.02 Name "جاپان" river.n.01 Location -1 river.n.01 Name "شنانو" as.r.01 Theme -2 Co-Theme -1 long.a.01 AttributeOf -3 Degree -1 Time +1 NEGATION <1 time.n.08 EQU now
+person.n.01 EQU speaker wine.n.01 buy.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer person.n.01 Name ? vote.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker tree.n.01 plant.v.01 Agent -2 Source -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker entity.n.01 need.v.01 Pivot -2 Theme -1 Time +1 time.n.08 EQU now
+boy.n.01 tree.n.01 male.n.02 ANA -3 name.n.01 Bearer -1 carve.v.02 Agent -4 Destination -3 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 unarmed.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+mr.n.01 male.n.02 Name "ہمسٹر" cheek.n.01 PartOf -1 sit.v.01 Theme -1 Time +1 time.n.08 EQU now
+squirrel.n.01 hazelnut.n.01 eat.v.03 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+female.n.02 Name "مریم" female.n.02 ANA -1 bicycle.n.01 User -1 climb.v.01 Agent -3 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 Role +1 teacher.n.01 chuckle.v.01 Proposition >1 Agent -2 Time +1 time.n.08 TPR now CONTINUATION <0 female.n.02 measure.n.02 Quantity 17 Unit +1 year.n.01 time.n.08 TPR now
+male.n.02 Name "ٹام" assassination.n.02 Patient -1 abduct.v.01 Theme -1 Time +1 time.n.08 TPR now
+female.n.02 Name "کوکو" monster.n.04 person.n.01 Role +1 sister.n.01 Of -2 be.v.01 Theme -4 Co-Theme -2 Time +1 time.n.08 EQU now
+door.n.01 ring.v.01 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" person.n.01 EQU speaker more.r.01 Theme -2 Co-Theme -1 tall.a.01 AttributeOf -3 Degree -1 Time +1 time.n.08 EQU now
+country.n.02 Name "جاپان" country.n.02 Name "جاپان" as.r.01 Theme -2 Co-Theme -1 as.r.01 Theme -3 Co-Theme -1 Time +1 NEGATION <1 time.n.08 EQU now
+person.n.01 EQU speaker graduation.n.01 NEGATION <1 time.n.08 TPR now graduate.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+NEGATION <1 NEGATION <1 mistake.n.01 do.v.02 Agent -1 Theme +1 Time +2 mistake.n.03 EQU now
+person.n.01 Sub speaker movie.n.01 movie.n.01 take.v.04 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" have.v.02 Pivot -1 Theme +1 Time +2 scarf.n.01 time.n.08 EQU now
+male.n.02 person.n.01 EQU speaker substance.n.01 Creator -1 translate.v.01 Agent -3 Theme -1 Time +1 NEGATION <1 time.n.08 EQU now
+time.n.08 ClockTime 15:55 EQU now time.n.08 EQU -1
+male.n.02 Name "ٹام" knock.v.02 Agent -1 Time +1 time.n.08 EQU now
+male.n.02 school.n.02 school.n.02 go.v.01 Theme -3 Destination -2 Time +1 time.n.08 TPR now
+person.n.01 Role +1 policeman.n.01 gasmoscope.n.01 wear.v.02 Agent -3 Theme -1 Time +1 time.n.08 EQU now
+female.n.02 Name "مریم" entity.n.01 NEGATION <1 see.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+train.n.01 time.n.08 ClockTime 17:15 leave.v.01 Theme -2 Time -1 Time +1 time.n.08 TSU now
+squirrel.n.01 fast.v.01 Agent -1 Time +1 time.n.08 EQU now
+war.n.01 Name "دوسری جنگ عظیم" time.n.08 YearOfCentury 1939 time.n.08 YearOfCentury 1945 take_place.v.01 Theme -2 Start -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker female.n.02 Name "این" person.n.01 Role +1 sister.n.01 Of -2 entity.n.01 misunderstand.v.01 Experiencer -4 Stimulus -2 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 EQU speaker hair.n.01 PartOf -1 bite.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 radio_crowd.n.01 money.n.01 donate.v.01 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" very.r.01 hate.v.01 Experiencer -2 Degree -1 Time +1 NEGATION <1 time.n.08 EQU now
+person.n.01 person.n.01 ANA -1 relaxed_asset.n.01 sharpen.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+hot.a.02 Value + tree.n.01 Attribute -1 fish.n.02 swallow.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+ball.n.01 spin.v.02 Agent -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker male.n.02 Name "ٹام" jealous.a.02 Experiencer -2 Stimulus -1 Time +1 NEGATION <1 time.n.08 EQU now
+male.n.02 EQU speaker time.n.08 ClockTime 11:00 wake_up.v.02 Agent -2 Time -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" flag.n.04 sit.v.01 Agent -2 Location -1 Time +1 time.n.08 TPR now
+NEGATION <1 NEGATION <1 person.n.01 NEGATION <1 learn.v.01 Agent -1 Theme +1 NEGATION <1 learn.v.01 Agent -3 Theme -1
+male.n.02 ill.a.01 AttributeOf -1 Time +1 NEGATION <1 time.n.08 EQU now CONTINUATION <1 male.n.02 ANA -3 come.v.02 Theme -1 Time +1 time.n.08 TSU now
+male.n.02 Name "ٹام" hope.v.01 Proposition >1 Pivot -1 Time +1 time.n.08 EQU now CONTINUATION <0 male.n.02 ANA -3 city.n.01 Name "بوسٹن" division.n.03 Theme -1 stop.v.01 PartOf -1 TPR now
+person.n.01 Role +1 thief.n.01 as.r.01 Theme -2 Co-Theme +2 slight.a.03 AttributeOf -3 Degree -1 Time +1 time.n.08 TPR now
+restaurant.n.01 river.n.01 located.a.01 Theme -2 Location -1 Time +1 time.n.08 EQU now
+entity.n.01 spider_bucket.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+female.n.02 bed.n.01 slump.v.02 Agent -2 Source -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" male.n.02 ANA -1 dog.n.01 Owner -1 photo.n.01 show.v.04 Agent -5 Recipient -3 Topic -1 Time +1 time.n.08 TPR now
+dog.n.01 stink.v.02 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker sea.n.01 swim.v.01 Theme -2 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker like.v.03 Experiencer -1 Time +1 NEGATION <1 time.n.08 TPR now
+person.n.01 EQU speaker surname.n.01 Bearer -1 name.n.01 EQU "چا٤" be.v.06 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker camera.n.01 User -1 steal.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker country.n.02 Name "انگلستان" be.v.03 Theme -2 Source -1 Time +1 time.n.08 EQU now
+person.n.01 notepart.n.01 person.n.01 Role +1 notepart.n.01 accompany.v.03 Agent -4 Co-Agent -2 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 bicycle.n.01 User -1 country.n.02 Name "چین" steal.v.01 Agent -4 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+entity.n.01 person.n.01 Name ? chair.n.01 User -1 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now CONTINUATION <1 entity.n.01 ANA -3 female.n.02 Name "مریم" chair.n.01 User -1 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 Name ? person.n.01 help.v.01 Agent -2 Beneficiary -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU speaker book.n.02 User -1 english.n.01 be.v.03 Theme -3 Context -1 Time +1 time.n.08 EQU now
+time.n.08 EQU now person.n.01 EQU hearer watch.n.01 User -1 work.v.04 Time -3 Agent -1
+person.n.01 EQU hearer so.r.01 stupid.a.01 AttributeOf -2 Degree -1 Time +1 time.n.08 EQU now
+time.n.08 TIN +2 day.n.03 TCT now day.n.03 person.n.01 EQU speaker neck.n.01 PartOf -1 hurt.v.01 Time -3 Patient -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker trap.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" glasses.n.01 steal.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+chair.n.01 dishwasher.n.01 lack.v.01 Pivot -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" post_office.n.01 enter.v.01 Theme -2 Source -1 Time +1 time.n.08 TPR now
+person.n.01 truck_dlass.n.01 glide.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 credit_card.n.01 pay.v.01 Agent -2 Instrument -1 Time +1 time.n.08 TPR now
+entity.n.01 normal.a.01 Time +1 Proposition >1 time.n.08 EQU now CONTINUATION <0 person.n.01 normal.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 Role +1 doctor.n.01 be.v.08 Theme -2 Co-Theme +2 Time +3 person.n.01 Role +1 novelist.n.01 be.v.08 Theme -4 Co-Theme -2 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" ball.n.01 kick.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+NEGATION <1 NEGATION <1 person.n.01 NEGATION <1 win.v.01 Agent -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" busy.a.01 AttributeOf -1 Time +1 NEGATION <1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 famous.a.01 AttributeOf -2 Time +1 time.n.08 EQU now
+quantity.n.01 EQU 3 person.n.01 Quantity -1 arrest.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker nervous.a.04 AttributeOf -1 Time +1 time.n.08 TPR now
+POSSIBILITY <1 person.n.01 EQU hearer ice_skate.v.01 Agent -1 POSSIBILITY <1
+person.n.01 old.a.01 AttributeOf +1 Value +2 quantity.n.01 EQU 1 year.n.01 Quantity -2 old.a.01 AttributeOf -5 Value -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker cake.n.03 like.v.02 Experiencer -2 Stimulus -1 Time +1 NEGATION <1 time.n.08 EQU now
+person.n.01 dishonest.a.01 AttributeOf +1 person.n.01 Role +1 selfish.n.01 kiss.v.01 Agent -3 Patient -2 Time +1 time.n.08 TPR now
+male.n.02 Name "ڈین" female.n.02 Name "لنڈا" hand.n.01 PartOf -1 tie.n.01 put.v.01 Agent -4 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+female.n.02 female.n.02 ANA -1 clesset.n.01 User -1 wipe.v.01 Agent -3 Source -1 Time +1 time.n.08 EQU now
+person.n.01 country.n.02 Name "ارجنٹائنی" Theme -1 Time +1 time.n.08 EQU now
+day.n.01 MonthOfYear 1 DayOfMonth 3 MonthOfYear 4 time.n.08 EQU -1 time.n.08 EQU -1 be.v.03 Theme -3 Finish -1 Time +1 time.n.08 EQU now
+entity.n.01 person.n.01 Name ? umbrella.n.01 User -1 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 EQU speaker watch.n.01 User -1 renew.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" male.n.02 ANA -1 sports_car.n.01 User -1 home.n.01 drive.v.03 Agent -5 Theme -3 Destination -1 Time +1 time.n.08 TPR now
+apple.n.01 green.a.01 ColourOf -1 Time +1 NEGATION <1 time.n.08 EQU now
+room.n.01 small.a.01 AttributeOf -1 Value + Time +1 time.n.08 EQU now
+person.n.01 EQU hearer person.n.01 seat_belt.n.01 User -1 unscrew.v.01 Agent -3 Patient -1
+city.n.01 Name "پیرس" Location -1 Time +1 time.n.08 EQU now beautiful.a.01 AttributeOf -3 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker french.n.01 NEGATION <1 understand.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker call.n.01 use_up.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 name.n.01 EQU "جان" pronounce.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker candy.n.01 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker room.n.01 User -1 red.a.01 ColourOf -1 Time +1 time.n.08 EQU now
+female.n.02 quantity.n.01 EQU +1 year.n.01 Quantity -2 french.n.01 study.v.04 Agent -4 Duration -3 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" person.n.01 Role +1 doctor.n.01 french.n.01 speak.v.03 Agent -4 Co-Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker name.n.01 Bearer -1 name.n.01 EQU "جیک" be.v.06 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 cellphone.n.01 User -1 time.n.08 EQU now out.r.01 AttributeOf -2 Time -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker shee.n.01 be.v.03 Theme -2 Location -1 Time +1 time.n.08 EQU now
+country.n.02 Name "سپین" spanish.n.01 name.n.01 EQU "اسپانیا" call.v.01 Theme -3 Context -2 Context -1 Time +1 time.n.08 EQU now
+person.n.01 stomach.n.01 PartOf -1 growl.v.01 Theme -1 Time +1 time.n.08 EQU now
+entity.n.01 Quantity 4 error.n.01 Quantity -1 stand.v.04 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker shout.v.01 Agent -1 NEGATION <1 POSSIBILITY <1 time.n.08 TSU now
+person.n.01 dress.n.01 pleased.a.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+hour.n.01 Quantity + frontier.n.02 hit.v.02 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 kitchen.n.01 innocent.a.01 AttributeOf -2 Time +1 time.n.08 EQU now
+person.n.01 jean.n.01 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 Name ? kill.v.01 Patient -2 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer person.n.01 ANA -1 tie.n.01 User -1 spider.n.01 spin.v.01 Agent -4 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+coffee.n.01 state.a.01 AttributeOf -1 EQU ?
+male.n.02 nice.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer arm.n.01 PartOf -1 broken.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 Role +1 parent.n.01 Of -2 very.r.01 pleased.a.01 Experiencer -3 Degree -1 Time +1 time.n.08 EQU now
+male.n.02 Name "پیزارو" person.n.01 Name ? kill.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 nose.n.01 PartOf -1 scratch.v.03 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker entity.n.01 nose.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 NEGATION <1 know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 TPR now CONTINUATION <0 entity.n.01 land.n.01 User +1 person.n.01 Name ? be.v.02 Theme -3 Co-Theme -2 Time +1 time.n.08 TPR now
+time.n.08 ClockTime 20:00 EQU now time.n.08 EQU -1
+person.n.01 kiss.v.01 Agent -1 Time +1 time.n.08 TPR now
+country.n.02 Name "بیونس آئرس" country.n.02 Name "ارجنٹائن" capital.n.03 Of -2 country.n.02 Name "ارجنٹائن" capital.n.03 Of -1 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+sky.n.01 sky.n.01 creep.v.01 Location -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" quantity.n.01 EQU 4 goal.n.01 Quantity -1 score.n.03 Value -1 score.v.03 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 human_city.n.01 safe.a.01 AttributeOf -2 Theme -1 Time +1 time.n.08 EQU now
+dog.n.01 very.r.01 sharp.a.08 AttributeOf -2 Degree -1 Time +1 NEGATION <1 time.n.08 EQU now
+male.n.02 country.n.02 Name "ہانگزو" come.v.08 Theme -2 Source -1 Time +1 time.n.08 EQU now
+time.n.08 EQU now person.n.01 EQU hearer hurt.v.01 Time -2 Patient -1
+male.n.02 Name "انتھونی بلنٹ" person.n.01 EQU ? be.v.08 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" relaxed.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+news.n.01 person.n.01 Sub speaker NEGATION <1 person.n.01 SubOf +1 person.n.01 Sub speaker NEGATION <1 blush.v.01 Stimulus -3 Experiencer -2 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" person.n.01 EQU hearer more.r.01 Theme -2 Co-Theme -1 tall.a.01 AttributeOf -3 Degree -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker heart.n.01 PartOf -1 miss.v.05 Stimulus -1 Time +1 time.n.08 EQU now
+lake.n.01 entity.n.01 Quantity + be.v.03 Location -2 Theme -1 Time +1 time.n.08 EQU now
+country.n.02 Name "اسرائیل" strong.a.01 AttributeOf +1 country.n.02 Attribute -2 be.v.01 Theme -4 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 have.v.01 Pivot -1 Theme +1 Time +2 hope.n.01 CONTRAST <1 person.n.01 ANA -3 hope.v.01 Experiencer -1 Time +1 NEGATION <1 time.n.08 EQU now
+country.n.02 Name "انگلستان" person.n.01 Source +1 friend.n.01 voyage.n.01 Destination -2 quantity.n.01 EQU 4 month.n.02 Quantity -1 take.v.02 Theme -3 Value -1 Time +1 time.n.08 TPR now
+boy.n.01 male.n.02 ANA -1 nose.n.01 PartOf -1 male.n.02 ANA -3 nose.n.01 PartOf -1 like.v.03 Experiencer -4 Stimulus -2 Experiencer -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 hot.a.01 AttributeOf +1 blanket.n.01 User -2 put.v.01 Agent -5 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 Role +1 nephew.n.01 Of -2 beautiful.a.01 AttributeOf +1 firewark.n.01 attract.v.01 Theme -4 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 wet.a.01 AttributeOf +1 foot.n.01 PartOf -2 bite.v.01 Agent -4 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" very.r.01 long.a.02 AttributeOf -2 Degree -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker sorry.a.01 Experiencer -1 Proposition >1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU speaker black.a.01 number.n.02 dial.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 bench.n.01 NEGATION <1 sit.v.01 Theme -2 Location -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker kind_of.r.01 man.n.01 InstanceOf +1 man.n.01 NEGATION <1 be.v.01 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker pay.v.01 Agent -1 Time +1 time.n.08 TSU now CONTINUATION <1 person.n.01 EQU speaker pay.v.01 Agent -1 Time +1 time.n.08 TSU now
+person.n.01 have.v.01 Pivot -1 Theme +1 Time +2 child.n.02 time.n.08 EQU now child.n.02 Quantity -1 be.v.01 Theme -4 Co-Theme -1
+notebook.n.01 person.n.01 Name ? entity.n.01 User -1 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 ANA -1 cheek.n.01 PartOf -1 miss.v.05 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" city.n.01 Name "بوسٹن" person.n.01 Quantity + Role +1 friend.n.01 have.v.01 Pivot -4 Theme -2 Time +1 time.n.08 EQU now
+person.n.01 Role +1 prisoner.n.01 die.v.01 Patient -2 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker pleased.a.01 Experiencer -1 Time +1 time.n.08 TPR now
+person.n.01 young.a.01 AttributeOf +1 music.n.01 entity.n.01 Sub -2 Sub +1 funny.a.01 AttributeOf +1 music.n.01 stand.v.05 Experiencer -4 Stimulus -2 Time +1 time.n.08 EQU now
+male.n.02 Name "امینو ایسڈ" entity.n.01 EQU ? be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ڈین" time.n.08 YearOfCentury 1997 person.n.01 Role +1 psychiatrist.n.01 see.v.01 Experiencer -4 Time -3 Stimulus -2 Time +1 time.n.08 TPR now
+time.n.08 EQU now apple.n.01 red.a.01 ColourOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "عی" person.n.01 EQU speaker location.n.01 SZN +1 person.n.01 EQU speaker stand.v.01 Agent -4 Location -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer person.n.01 Name ? invite.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+POSSIBILITY <1 person.n.01 EQU hearer successful.a.01 AttributeOf -1 Time +1 time.n.08 TSU now
+money.n.01 NEGATION <1 person.n.01 NEGATION <1 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+female.n.02 Name "کیلی" tv.n.01 star.v.02 Agent -2 Beneficiary -1 Time +1 time.n.08 TSU now
+time.n.08 EQU now person.n.01 EQU hearer country.n.02 Name "فلپائنی" be.v.03 Time -3 Theme -2 Source -1
+male.n.02 Name "ٹام" female.n.02 Name "مریم" room.n.01 User -1 walk.v.01 Theme -3 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" time.n.08 TPR now say.v.01 Agent -2 Time -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker chess.n.02 play.v.01 Agent -2 Theme -1 like.v.02 Experiencer -3 Stimulus -1 Time +1 time.n.08 EQU now
+entity.n.01 entity.n.01 happen.v.01 Theme -2 Source -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker swedish.n.01 NEGATION <1 speak.v.03 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹونی" city.n.01 Name "کوبے" live.v.01 Theme -2 Location -1 Time +1 time.n.08 EQU now
+male.n.02 diamond.n.01 leave.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+entity.n.01 person.n.01 Name ? handbag.n.01 User -1 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" face.n.01 punch.v.01 Agent -3 Patient -2 Location -1 Time +1 time.n.08 TPR now
+community.n.01 Name "برلسکونی" time.n.08 EQU now wet.a.01 AttributeOf -2 Time -1 Time +1 time.n.08 EQU now
+time.n.08 TPR now male.n.02 Name "ٹام" fire.n.01 wave.v.01 Time -3 Agent -2 Theme -1
+big.a.01 Value + white.a.01 dog.n.01 Attribute -1 cat.n.01 glance.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+quantity.n.01 EQU 100 sell.n.01 pencil.n.01 punch.v.01 Agent -3 Source -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" proud.a.01 Experiencer -1 Proposition >1 Time +1 time.n.08 TPR now CONTINUATION <0 female.n.02 Name "مریم" french.n.01 speak.v.03 Agent -2 Theme -1 POSSIBILITY <1
+person.n.01 EQU speaker garge.n.01 stop.v.01 Agent -2 Patient -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker quantity.n.01 EQU 3 kilogram.n.01 Quantity -1 score.n.01 Value -1 score.v.01 Theme -3 Value -1 Time +1 time.n.08 TPR now
+company.n.01 Name "ٹام آن لائن" loss.n.01 Theme -1 Value +3 quantity.n.01 EQU 38.5 lose.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker bark.v.04 Agent -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ایلس" grimace.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" banana.n.02 knife.n.01 User -1 bite.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+female.n.02 Name "مریم" female.n.02 ANA -1 cheek.n.01 PartOf -1 wipe.v.01 Agent -3 Source -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 notebook.n.01 User -1 entity.n.01 smash.v.01 Agent -4 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+school.n.03 school.n.03 person.n.01 Role +1 student.n.01 have.v.01 Pivot -3 Theme -2 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer book.n.02 User -1 rank.n.02 EQU 1 rank.n.02 EQU 1 rank.n.02 EQU 1 unlock.v.01 Agent -4 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker toilet_piper.n.01 old.a.02 AttributeOf +1 newspaper.n.01 Owner -2 promote.v.01 Agent -4 Co-Agent -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker baby.n.01 flute.n.01 play.v.07 Agent -2 Theme -1 need.v.02 Pivot -3 Theme -1 Time +1 time.n.08 EQU now
+possurd.n.01 abbreviation.n.01 EQU "میوریل" be.v.02 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" key.n.01 leave.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+police.n.01 person.n.01 room.n.01 person.n.01 arrest.v.01 Agent -3 Location -2 Theme -1 Time +1 time.n.08 TPR now
+female.n.02 Name "مریم" bark.v.04 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 entity.n.01 InstanceOf +1 music.n.01 interested.a.01 Experiencer -3 Stimulus -2 Time +1 time.n.08 EQU now
+person.n.01 car.n.01 User -1 person.n.01 Sub speaker wave.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now CONTINUATION <1 person.n.01 Sub speaker wave.v.01 Agent -1 Time +1 time.n.08 TPR now
+time.n.08 ClockTime 07:50 EQU now time.n.08 EQU -1
+person.n.01 person.n.01 Role +1 daughter.n.01 have.v.01 Pivot -3 Theme -2 Time +1 time.n.08 TPR now
+country.n.02 Name "چینی" person.n.01 Source -1 Role +1 prime_minister.n.01 country.n.02 Name "جرمن" government.n.01 Location -2 co-Agent.n.01 Source -1 work.v.02 Agent -4 Co-Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 head.n.01 PartOf -1 shake.v.09 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker apple.n.01 eat.v.01 Agent -2 Patient -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer pen.n.01 want.v.01 Pivot -2 Theme -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 person.n.01 EQU speaker person.n.01 lend.v.02 Agent -2 Theme -1 Time +1 time.n.08 TSU now
+person.n.01 eggless.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 sauce.n.01 User -1 scrape.v.05 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 EQU hearer gift.n.01 Creator -1 write.v.01 Agent -3 Result -1 Time +1 time.n.08 TPR now
+female.n.02 entity.n.01 hear.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 help.v.01 Agent -2 Beneficiary -1 Time +1 NEGATION <1 time.n.08 TPR now
+soccer_sock.n.01 home.n.01 be.v.03 Theme -2 Location -1 Time +1 time.n.08 EQU now
+frequency.n.01 machine.n.01 Name "فریڈی میک" entity.n.01 EQU ? be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker call.n.03 wait.v.01 Theme -2 Goal -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker name.n.01 EQU "ہیلو" call.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+female.n.02 time.n.08 ClockTime 08:00 wake_up.v.02 Agent -2 Time -1 Time +1 time.n.08 TPR now
+book.n.02 person.n.01 entity.n.01 User -1 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+female.n.02 person.n.01 EQU speaker hospital.n.01 go.v.01 Theme -3 Co-Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 rich.a.01 AttributeOf -1 Time +1 NEGATION <1 time.n.08 EQU now CONTINUATION <1 person.n.01 ANA -3 very.r.01 happy.a.01 Experiencer -2 Degree -1 Time +1 NEGATION <1 time.n.08 EQU now
+NEGATION <1 person.n.01 NEGATION <1 male.n.02 Name "ٹام" like.v.03 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 loaded.a.01 AttributeOf -1 Time +1 time.n.08 TPR now
+male.n.02 Name "لیو شیاؤبو" country.n.02 Name "چینی" be.v.03 Theme -2 Source -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" person.n.01 Role +1 son.n.01 have.v.01 Pivot -3 Theme -2 Time +1 time.n.08 EQU now name.n.01 EQU "جان" name.n.01 Bearer -1 name.n.01 EQU "جان" be.v.06 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" nail.n.02 more.r.01 Theme -2 Co-Theme -1 tall.a.01 AttributeOf -3 Degree -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" outraged.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+tyco.n.02 Name "ٹائیکو براہے" nock_fredric.n.01 Creator -1 wealthy.a.01 AttributeOf +1 sport.n.01 Creator -2 please.v.01 Experiencer -4 Stimulus -1 Time +1 time.n.08 TPR now
+female.n.02 shy.a.01 AttributeOf -1 Time +1 NEGATION <1 time.n.08 EQU now
+male.n.02 EQU speaker swim.v.01 Theme -1 NEGATION <1 POSSIBILITY <1
+person.n.01 EQU speaker watch.n.01 User -1 person.n.01 EQU speaker steal.v.01 Agent -2 Source -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU hearer person.n.01 Role +1 parent.n.01 Of -2 NEGATION <1 be.v.02 Theme -4 Co-Theme -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker watch.n.01 illegal.a.01 AttributeOf -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 car.n.01 sleep_with.v.01 Agent -2 Location -1 Time +1 time.n.08 TPR now
+female.n.02 kind_of.r.01 beautiful.a.01 AttributeOf -2 Degree -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 funny.a.01 AttributeOf +1 coffee.n.01 love.v.01 Experiencer -3 Stimulus -1 Time +1 time.n.08 EQU now
+city.n.01 Name "چک" unarmed.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker sorry.a.01 AttributeOf -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker mother_tongue.n.01 Creator -1 palestine.n.02 be.v.02 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer person.n.01 see.v.01 Experiencer -2 Stimulus -1 Time +1 POSSIBILITY <1 time.n.08 EQU now CONSEQUENCE <1 person.n.01 ANA -3 see.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker stuart.n.01 NEGATION <1 speak.v.03 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU speaker phone.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 Role +1 mother.n.01 Of -2 quantity.n.01 EQU 10 egg.n.02 Quantity -1 boil.v.03 Agent -4 Patient -1 Time +1 time.n.08 TPR now
+cart_shed.n.01 be.v.03 Theme -1 Time +1 Location +2 time.n.08 TPR now cart_shed.n.01
+cheese.n.01 weigh.v.01 Theme -1 Value +2 Time +3 cheese.n.01 weigh.n.01 Quantity +1 time.n.08 EQU now
+female.n.02 Name "مریم" person.n.01 EQU speaker slap.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+time.n.08 TPR now person.n.01 EQU speaker person.n.01 EQU speaker buy.v.01 Time -2 Theme -1
+person.n.01 EQU speaker watch.n.01 User -1 time.n.08 ClockTime 13:30 stand.v.03 Theme -2 Time -1 Time +1 time.n.08 TSU now
+time.n.08 EQU now entity.n.01 person.n.01 EQU speaker ball.n.01 User -1 be.v.02 Time -4 Theme -3 Co-Theme -1
+person.n.01 EQU speaker gold.n.02 put.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU speaker wave.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+wall.n.01 picture.n.01 paint.v.02 Destination -2 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" beach.n.01 woman.n.01 statue.n.01 find.v.01 Agent -3 Location -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker female.n.02 Name "یومی" dream.v.01 Experiencer -2 Co-Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker money.n.01 Quantity + inherit.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 female.n.02 Name "این" marry.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+female.n.02 beach.n.01 location.n.01 APX -1 live.v.01 Theme -3 Location -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 ANA -1 knife.n.01 sharpen.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+wild.a.01 AttributeOf +1 stone.n.01 wonderful.a.01 AttributeOf -2 Time +1 time.n.08 TPR now
+fish.n.02 chew.v.01 Agent -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker male.n.02 Name "بیلنگوی" be.v.03 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 ANA -1 arm.n.01 PartOf -1 bite.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker study.v.05 Agent -1 Time +1 time.n.08 EQU now
+lake.n.01 full.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+NEGATION <1 person.n.01 NEGATION <1 male.n.02 Name "ٹام" like.v.03 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker rabbit.n.01 NEGATION <1 be.v.02 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+company.n.01 Name "ہٹلر" time.n.08 YearOfCentury 1933 water.n.06 break.v.03 Agent -3 Time -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 EQU speaker defeat.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" irrational.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" female.n.02 Name "ہارن" hug.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 coffee_brick.n.01 User -1 cut.v.01 Agent -3 Patient -1 Time +1 time.n.08 EQU now
+time.n.08 TIN +2 day.n.03 TCT now day.n.03 ice.v.01 Time -3 Time -1
+male.n.02 Name "ٹام" male.n.02 ANA -1 person.n.01 Role +1 friend.n.01 Of +1 person.n.01 Role +1 friend.n.01 Of +1 male.n.02 ANA -4 suspect.v.01 Experiencer -5 Stimulus -4 Co-Theme -2 Time +1 time.n.08 TPR now
+male.n.02 Name "ایلجر ہِس" person.n.01 EQU ? be.v.08 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 Role +1 chief.n.02 female.n.02 Name "سیاہی" exit.n.01 exit.n.01 Experiencer -2 Stimulus -1 abduct.v.01 Theme -4 Source -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU speaker wonderful.a.01 AttributeOf +1 smile.v.01 Agent -3 Beneficiary -1 Time +1 time.n.08 TPR now
+organization.n.01 Name "ویکمپ" cost.v.01 Theme -1 Value +3 Time +4 quantity.n.01 EQU 390000 yen.n.02 Quantity -1 time.n.08 EQU now
+person.n.01 mouse.n.01 person.n.01 ANA -2 foot.n.01 PartOf -1 bang.v.01 Agent -4 Theme -3 Source -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" peck.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 floor.n.01 poop.n.01 Creator -1 arrive.v.01 Theme -3 Destination -1 Time +1 time.n.08 TPR now
+dog.n.01 cat.n.01 tree.n.01 hide.v.02 Agent -3 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 love.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+female.n.02 Name "ایملی" swim.v.01 Theme -1 POSSIBILITY <1
+female.n.02 female.n.02 ANA -1 border.n.01 User -1 tip.v.04 Agent -3 Source -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker time.n.08 ClockTime 23:30 return.v.01 Theme -2 Time -1 Time +1 time.n.08 TSU now
+room.n.01 fix.v.01 Patient -1 Time +1 NEGATION <1 time.n.08 TPR now
+male.n.02 Name "ٹام" time.n.01 Quantity + scold.v.01 Patient -2 Frequency -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker worried.a.01 Experiencer -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" country.n.02 Name "کینیڈین" marry.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+poem.n.01 person.n.01 Name ? write.v.01 Result -2 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <1 person.n.01 Name ? write.v.01 Result -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" chase.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ولکنز" time.n.08 YearOfCentury 1987 city.n.01 Name "اٹلی" arrive.v.01 Theme -3 Time -2 Destination -1 Time +1 time.n.08 TPR now
+time.n.08 TSU now person.n.01 EQU speaker band.n.01 start.v.01 Time -2 PartOf -1
+male.n.02 EQU speaker table.n.02 NEGATION <1 understand.v.01 Experiencer -2 Stimulus -1 NEGATION <1 POSSIBILITY <1
+person.n.01 person.n.01 Name ? be.v.02 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+rain.n.01 street.n.01 knife.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+crat.n.01 apple_water.n.01 carry.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker male.n.02 Name "ٹام" apple.n.01 give.v.03 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now like.v.03 Experiencer -3 Stimulus -1
+person.n.01 quantity.n.01 EQU 10000 yen.n.02 Quantity -1 fine.v.01 Recipient -3 Asset -1 Time +1 time.n.08 TPR now
+person.n.01 consistency.n.03 person.n.01 Role +1 traveler.n.01 lack.v.01 Pivot -3 Theme -2 Time +1 time.n.08 EQU now
+boat.n.01 geological_organization.n.01 Name "جبرالٹر" sail.v.01 Theme -2 Destination -1 Time +1 time.n.08 EQU now
+location.n.01 animal.n.01 habit.v.01 Location -2 Theme -1 Time +1 time.n.08 EQU now
+city.n.01 Name "یڈینسٹو" party.n.01 Name "یڈینسٹو" go.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now CONTINUATION <1 person.n.01 Role +1 party.n.01 Name "یڈینسٹو" go.v.01 Theme -1 Destination +1 Time +2 person.n.01 Role +1 party.n.01 Name "یڈینسٹو" go.v.01 Theme -5 Destination -3 Time +1 time.n.08 TPR now
+boat.n.01 sail.v.01 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer person.n.01 EQU speaker quantity.n.01 EQU 500 yen.n.02 Quantity -1 lend.v.03 Agent -4 Beneficiary -3 Theme -1 Time +1 time.n.08 TPR now CONSEQUENCE <1 person.n.01 EQU speaker quantity.n.01 EQU 500 yen.n.02 Quantity -1 take.v.08 Agent -4 Beneficiary -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" lunch.n.01 NEGATION <1 miss.v.05 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker neck.n.01 PartOf -1 hurt.v.01 Patient -1 Time +1 time.n.08 EQU now
+entity.n.01 time.n.08 EQU now scientific.a.01 AttributeOf -2 Time -1 Theme +1 time.n.08 EQU now
+person.n.01 EQU speaker unarmed.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 ball.n.01 first_land.n.01 raise.v.02 Agent -3 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" secret.n.01 steal.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker person.n.01 Name ? talk.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 disturb.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+rank.n.02 EQU 2 plus.n.02 Quantity 1/5 entity.n.01 SubOf -1 NEGATION <1 entity.n.01 SubOf +1 quantity.n.01 EQU 3 entity.n.01 SubOf -2 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 be.v.01 Theme -5 Co-Theme -1 Time +1 time.n.08 EQU now
+girl.n.01 country.n.02 Name "جاپانی" be.v.03 Theme -2 Source -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer kind_of.r.01 lazy.a.02 AttributeOf -2 Degree -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" very.r.01 active.a.02 AttributeOf -2 Degree -1 Time +1 NEGATION <1 time.n.08 EQU now
+mr.n.01 male.n.02 Name "سمتھ" Title -1 city.n.01 Name "کیوٹو" live.v.01 Theme -2 Time -1 Location -1 Time +1 time.n.08 EQU now
+orange.n.01 funny.a.01 AttributeOf -1 Degree +1 Time +2 kind_of.r.01 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 quantity.n.01 EQU 5000 yen.n.02 Quantity -1 owe.v.03 Agent -4 Beneficiary -3 Theme -1 Time +1 time.n.08 EQU now
+store.n.01 quantity.n.01 EQU 100 bracelet.n.02 Quantity -1 sell.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+watch.n.01 cheap.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+country.n.02 Name "امریکہ" quantity.n.01 EQU 2000 person.n.01 Quantity -1 employ.v.02 Agent -3 Theme -1 Time +1 time.n.08 EQU now
+company.n.01 plan.n.01 joint_venture.n.01 money.n.01 donate.v.01 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker quantity.n.01 EQU 30 dollar.n.01 Quantity -1 fine.v.01 Theme -3 Asset -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker shalf.n.01 wipe.v.01 Agent -2 Source -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU speaker talk.v.01 Agent -2 Co-Agent -1 Time +1 NEGATION <1 time.n.08 TPR now
+person.n.01 person.n.01 fake.a.01 entity.n.01 Sub -1 Sub +1 cd.n.04 use.v.01 Agent -4 Beneficiary -3 Theme -2 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU speaker time.n.08 ClockTime 18:00 come.v.02 Theme -3 Agent -2 Time -1 person.n.01 EQU speaker time.n.08 ClockTime 18:00 come.v.02 Theme -2 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 Role +1 grandmother.n.01 country.n.02 Name "ناروے" newspaper.v.01 Agent -3 Location -1 Time +1 time.n.08 EQU now
+general.n.01 person.n.01 murder.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 face.n.01 punch.v.01 Agent -3 Patient -2 Location -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" understand.v.01 Experiencer -1 Time +1 time.n.08 TPR now
+entity.n.01 NEGATION <1 NEGATION <1 male.n.02 Name "ٹام" entity.n.01 NEGATION <1 be.v.02 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+mr.n.01 male.n.02 Name "براؤن" Title -1 male.n.02 ANA -1 glasses.n.01 User -1 look.v.04 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+mr.n.01 male.n.02 Name "ایمسٹرڈیم" beautiful.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+alien.n.03 group.n.01 Attribute -1 city.n.01 Name "ایڈو" arrive.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+entity.n.01 problem.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+time.n.08 ClockTime 12:00 person.n.01 EQU hearer train_station.n.01 be.v.03 Time -3 Theme -2 Location -1 Time +1 time.n.08 EQU now
+person.n.01 amuse.v.01 Experiencer -1 Time +1 time.n.08 TPR now
+apple.n.01 hot.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 Role +1 daughter.n.01 person.n.01 murder.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker tired.a.01 Experiencer -1 Time +1 time.n.08 TPR now
+house.n.01 person.n.01 Sub speaker breathe.v.01 Location -2 Agent -1 Time +1 time.n.08 TPR now
+entity.n.01 suspicious.a.01 AttributeOf -1 Time +1 time.n.08 TPR now
+state.n.01 Name "ریاستہائے متحدہ" quantity.n.01 EQU ? geological_formation.n.01 Quantity ? be.v.03 Location -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 Quantity ? die.v.01 Patient -1 Time +1 time.n.08 TPR now
+country.n.02 Name "یوان" dollar.n.01 Quantity + country.n.02 Name "امریکی" cost.v.01 Beneficiary -3 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 osteoporosis.n.01 suffer.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker NEGATION <1 entity.n.01 NEGATION <1 want.v.01 Pivot -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 phone.n.01 User -1 unlock.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker cat.n.01 neck.n.01 PartOf -1 grab.v.05 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+entity.n.01 time.n.08 EQU now scientific.a.01 AttributeOf -2 Time -1 Theme +1 time.n.08 EQU now
+book.n.01 big.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+bird.n.01 fly.v.01 Theme -1 Time +1 time.n.08 EQU now
+rain.n.01 fish.n.02 fish.n.02 steal.v.01 Causer -2 Theme -1 Time +1 time.n.08 EQU now
+NEGATION <1 NEGATION <1 person.n.01 NEGATION <1 leave.v.01 Theme -1 Time +1 time.n.08 TPR now
+dolphin.n.01 certainly.r.01 mouse.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker busy.a.01 AttributeOf -1 Time +1 NEGATION <1 time.n.08 TPR now
+male.n.02 Name "ٹام" unhappy.a.01 Experiencer -1 Time +1 NEGATION <1 time.n.08 EQU now
+male.n.02 Name "ٹام" quantity.n.01 EQU 5 war.n.01 Quantity -1 control.v.03 Patient -3 Value -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 EQU speaker lip.n.01 PartOf -1 bite.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 Role +1 wizard.n.01 NEGATION <1 male.n.02 ANA -2 eye.n.01 PartOf -1 spank.v.01 Agent -3 Patient -1 POSSIBILITY <1
+male.n.02 Name "ٹام" phone_number.n.01 Name "911" dial.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 remark.n.01 Creator -1 hurt.v.01 Patient -3 Agent -1 Time +1 time.n.08 TPR now
+y.n.01 stand_up.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "کین" person.n.01 EQU speaker chess.n.02 beat.v.01 Agent -3 Co-Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker formation.n.01 gather.v.02 Theme -2 Time +1 time.n.08 EQU now
+war.n.01 time.n.08 ClockTime 11:00 weep.v.01 Agent -2 Time -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer person.n.01 Sub speaker mislead.v.02 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" entity.n.01 Sub -1 Sub +1 female.n.02 Name "میری" chess.n.02 play.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" love.a.01 Experiencer -1 Stimulus +1 love.n.01 CONTRAST <1 female.n.02 ANA -3 NEGATION <1 read.v.01 Agent -2 Beneficiary -1 Time +1 time.n.08 TPR now
+coffee_shop.n.01 person.n.01 EQU speaker favourite.a.02 User -1 Stimulus +1 gin.n.01 be.v.02 Theme -4 Co-Theme -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker golden_retriever.n.01 see.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker tree.n.01 cut_down.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" umbrella.n.01 User -1 location.n.01 Name ? be.v.03 Theme -2 Location -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker swim.v.01 Theme -1 NEGATION <1 POSSIBILITY <1
+door.n.01 open.a.01 AttributeOf -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 EQU hearer car.n.01 User -1 NEGATION <1 sell.v.01 Agent -4 Beneficiary -3 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" person.n.01 Role +1 content.n.01 be.v.01 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+person.n.01 french.n.01 person.n.01 Role +1 hockey_man.n.01 be.v.03 Theme -4 Context -3 Co-Theme -2 Time +1 time.n.08 EQU now
+street.n.01 location.n.01 SZN +1 truck.n.01 stand.v.01 Theme -3 Location -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker ruthless.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker city.n.01 NEGATION <1 get.v.03 Agent -2 Theme -1 Time +1 time.n.08 TSU now CONTINUATION <1 person.n.01 Sub speaker ballooning.n.01 attack.v.01 Agent -2 Theme -1 Time +1 NEGATION <1 time.n.08 TSU now
+male.n.02 Name "ٹام" translation.n.01 male.n.02 ANA -2 finger.n.01 PartOf -1 take.v.04 Agent -5 Theme -3 Source -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker name.n.01 Bearer -1 name.n.01 EQU "رابرٹ جانسن" be.v.06 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" blackmagge.n.01 test.v.03 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 EQU speaker face_to_beach.n.01 spend.v.01 Agent -2 Destination -1 Time +1 time.n.08 TPR now
+poem.n.01 look.v.02 Theme -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 person.n.01 convinced.a.01 Experiencer -2 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" nose.n.01 take_apart.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker entity.n.01 station.n.01 drive.v.03 Agent -3 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+child.n.01 horse.n.01 play.v.05 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "گینیور" female.n.02 Name "نائن آرتھر" person.n.01 Role +1 wife.n.01 Of -2 be.v.02 Theme -4 Co-Theme -2 Time +1 time.n.08 TPR now
+person.n.01 tooth.n.01 like.a.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 ANA -1 room.n.01 User -1 music.n.01 hear.v.02 Agent -4 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU speaker math.v.01 Agent -2 Co-Agent -1 Time +1 NEGATION <1 time.n.08 TPR now
+rock.n.02 drop.n.02 drop.n.02 glide.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 dance_floor.n.01 be.v.03 Theme -2 Location -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" person.n.01 Role +1 soldier.n.01 be.v.01 Theme -3 Co-Theme -2 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" person.n.01 NEGATION <1 see.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU speaker nose.n.01 PartOf -1 break.v.05 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker sit.v.01 Agent -1 Time +1 time.n.08 TPR now laptop.n.01 open.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 die.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "کمال" book.n.01 NEGATION <1 read.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 NEGATION <1 entity.n.01 find.v.03 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 programmer.n.01 serve.v.06 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+entity.n.01 blood.n.01 NEGATION <1 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" hug.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker hot.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker quantity.n.01 EQU 1 year.n.01 Quantity -1 TAB now time.n.08 TAB -1 play.v.01 Agent -4 Time -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" knife.n.01 put.v.01 Agent -3 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+table.n.02 location.n.01 SZN -1 sticky.a.01 AttributeOf +1 tiger.n.02 be.v.03 Location -3 Theme -1 Time +1 time.n.08 EQU now
+female.n.02 Name "مریم" person.n.01 EQU speaker break.v.03 Agent -2 Source -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 EQU speaker handkerchief.n.01 User -1 iron.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker right.a.01 AttributeOf +1 neck.n.01 PartOf -2 entity.n.01 Sub -1 Sub +1 nuts.a.01 AttributeOf +1 eye.n.01 PartOf -2 glance.v.01 Agent -5 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker have.v.01 Pivot -1 Theme +1 Time +2 truck.n.01 time.n.08 EQU now
+person.n.01 EQU speaker male.n.02 Name "کین" vote.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 dog.n.01 Owner -1 garden.n.01 walk.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker city.n.01 Name "بوسٹن" city.n.01 Name "شکاگو" fly.v.01 Theme -3 Source -2 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" time.n.08 EQU now person.n.01 Role +1 con.n.02 be.v.01 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+boy.n.01 male.n.02 person.n.01 Role +1 parent.n.01 Of -2 accompany.v.03 Agent -4 Co-Agent -2 Time +1 time.n.08 TPR now
+male.n.02 Name "بیکر آسٹریا" quantity.n.01 EQU 2 person.n.01 Quantity -1 NEGATION <1 lose.v.01 Agent -3 Co-Agent -1 Time +1 time.n.08 TPR now
+police_station.n.01 NEGATION <1 police_station.n.01 NEGATION <1 more.r.01 Theme -2 Co-Theme -1 small.a.01 AttributeOf -3 Degree -1 Time +1 time.n.08 EQU now
+female.n.02 cat.n.01 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+woman.n.01 person.n.01 Role +1 car.n.01 User -2 steal.v.01 Theme -3 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer photographer.n.01 be.v.02 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" glance.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+pond.n.01 quantity.n.01 EQU 3 meter.n.01 Quantity -1 deep.a.01 Theme -3 Value -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker station.n.01 cab.n.03 take.v.09 Agent -3 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+entity.n.01 beer.n.01 measure.n.02 Quantity ? be.v.13 Theme -2 Value -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 broken.a.01 AttributeOf +1 chair.n.01 fine.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker ruthless.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" cheese.n.01 like.v.02 Experiencer -2 Stimulus -1 Time +1 NEGATION <1 time.n.08 EQU now
+bug.n.01 lawn.n.01 stick.v.02 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer lottery.n.01 win.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker time.n.01 Quantity + continent.n.01 Name "بحر اوقیانوس" tour.v.01 Agent -3 Frequency -2 Location -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" claim.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 door.n.01 open.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 webbeneficiary.n.01 User -1 bank.n.02 User -1 hand.n.01 PartOf -1 sling.v.02 Agent -5 Theme -3 Instrument -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" door.n.01 PartOf -1 knock.v.02 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker credit_card.n.01 pay.v.01 Agent -2 Instrument -1 POSSIBILITY <1
+hotel.n.01 quantity.n.01 EQU 1000 person.n.01 Quantity -1 Role +1 guest.n.01 have.v.16 Location -4 Theme -2 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" kind_of.r.01 tired.a.01 Experiencer -2 Degree -1 Time +1 time.n.08 EQU now CONTINUATION <1 male.n.02 ANA -3 home.n.01 go.v.01 Theme -2 Destination -1 want.v.01 Pivot -4 Theme -1 Time +1 time.n.08 EQU now
+computer.n.01 person.n.01 Sub speaker NEGATION <1 nice.a.01 AttributeOf -2 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 arm.n.01 PartOf -1 grab.v.05 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+city.n.01 Name "کنازوا" city.n.01 Attribute -1 city.n.01 Attribute -1 be.v.01 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker NEGATION <1 dinner.n.01 NEGATION <1 eat.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+old.a.01 Value + man.n.01 Attribute -1 small.a.01 Value + flag.n.04 Attribute -1 wash.v.01 Agent -4 Patient -1 Time +1 time.n.08 TPR now
+quantity.n.01 EQU 4 bright.a.02 Theme -1 Value +1 Time +2 quantity.n.01 EQU 4 bright.a.02 AttributeOf -3 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 tooth.n.01 PartOf -1 wipe.v.01 Agent -3 Source -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker quantity.n.01 EQU 3 day.n.01 Quantity -1 open.v.01 Agent -3 Duration -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now male.n.02 Name "ٹام" rescue.v.01 Time -2 Theme -1
+male.n.02 Name "مائیکل کرچٹن" book.n.01 Name "جراسک پارک" person.n.01 Role +1 author.n.01 Of -2 be.v.02 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" pool.n.02 slip.v.03 Agent -2 Location -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer entity.n.01 pick_up.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker mile.n.01 Quantity 1 TAB now time.n.08 TAB -1 walk.v.01 Theme -3 Time -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer entity.n.01 InstanceOf +1 EQU ? camera.n.01 be.v.01 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+ab.n.06 cast.n.01 Co-Agent +1 gaby.n.01 cast.n.01 Co-Agent +1 gaby.n.01 cast.n.01 Co-Agent +1 gaby.n.01 cast.n.01 Co-Agent -2 gaby.n.01 cast.n.01 MadeOf -1 cast.n.01 MadeOf -1
+old.a.01 Value + man.n.01 Attribute -1 male.n.02 ANA -3 neck.n.01 PartOf -1 throw.v.01 Agent -5 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now dog.n.01 skinny.a.01 Time -2 AttributeOf -1
+male.n.02 Name "ٹام" roller_coaster.n.01 roll.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" entity.n.01 EQU ? drink.v.01 Agent -2 Patient -1 Time +1 time.n.08 EQU now
+person.n.01 Role +1 dougher.n.01 water.n.02 dye.v.01 Agent -3 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker wear.v.02 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker chinese.n.01 learn.v.01 Agent -2 Topic -1 Time +1 time.n.08 EQU now
+blood.n.01 blood.n.01 Colour -1 black.a.01 ColourOf -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" quantity.n.01 EQU 3 year.n.01 Quantity -1 senior.a.01 Theme -4 Co-Theme -2 Value -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 fingerprint.n.01 restaurant.n.01 give.v.03 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 NEGATION <1 NEGATION <1 time.n.08 NEGATION <1 horse.n.01 see.v.01 Experiencer -3 Stimulus -2 Time +1 NEGATION <1 POSSIBILITY <1 time.n.08 EQU now
+person.n.01 EQU speaker weigh.v.01 Theme -1 Value +3 Time +4 quantity.n.01 EQU 130 pound.n.01 Quantity -1 time.n.08 EQU now
+person.n.01 Sub speaker pleased.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU speaker person.n.01 ANA -1 phone_number.n.01 User -1 give.v.03 Agent -4 Recipient -3 Topic -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 ANA -1 fire.n.01 PartOf -1 fire.n.01 wipe.v.01 Agent -4 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 NEGATION <1 go.v.01 Theme -1 POSSIBILITY <1
+male.n.02 Name "ٹام" conondrome.n.01 come.v.08 Theme -2 Source -1 Time +1 time.n.08 EQU now
+continent.n.01 Name "افریقہ" increase.v.01 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" hour.n.01 dinner.n.01 eat.v.01 Agent -3 Duration -2 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 name.n.01 Bearer -1 entity.n.01 EQU ? be.v.02 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ابراہیم سوفو" male.n.02 Name "میٹن کپلان" person.n.01 Role +1 male.n.02 Name "میٹن کپلان" murder.v.01 Agent -3 Patient -2 Time +1 time.n.08 TPR now
+water.n.06 hockey.n.01 Creator -1 interesting.a.01 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" unlock.v.01 Agent -1 Time +1 time.n.08 TPR now miss.v.05 Agent -3 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" measure.n.02 Quantity - short.a.03 AttributeOf -3 Degree +1 Time +2 more.r.01 Theme -4 Co-Theme -3 Value -2 time.n.08 EQU now
+person.n.01 EQU speaker pizza.n.01 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 response.n.01 Creator -1 according.a.02 Theme -1 Co-Theme +1 Time +2 kind_of.r.01 mistake.n.03 Attribute -2 Time +1 time.n.08 TPR now
+village.n.02 cow.n.01 full.a.01 AttributeOf -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" entity.n.01 Sub -1 Sub +1 female.n.02 Name "مریم" estrein.n.02 beat.v.01 Agent -4 Co-Agent -2 Time +1 time.n.08 TPR now
+trip.n.01 quantity.n.01 EQU 63 day.n.01 Quantity -1 last.v.01 Theme -3 Value -1 Time +1 time.n.08 TPR now
+woman.n.01 electric_guitar.n.01 NEGATION <1 play.v.07 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+female.n.02 laugh.v.01 Agent -1 start.v.01 PartOf -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer red.a.01 clerk.n.01 Colour -1 be.v.01 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+female.n.02 person.n.01 Sub speaker beautiful.a.01 AttributeOf +2 person.n.01 Sub speaker round_moder.n.01 Owner -1 be.v.02 Theme -4 Co-Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" poem.n.01 Quantity + have.v.02 Pivot -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" NEGATION <1 NEGATION <1 time.n.08 NEGATION <1 male.n.02 ANA -1 letter.n.01 User -1 female.n.02 Name "مریم" send.v.01 Agent -5 Theme -2 Recipient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" busy.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker time.n.08 ClockTime 21:00 time.n.08 ClockTime 17:00 meet.v.02 Agent -3 Start -2 Finish -1 Time +1 time.n.08 TSU now
+male.n.02 Name "ٹام" know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 TPR now CONTINUATION <0 murder.n.01 person.n.01 Name ? be.v.02 Theme -2 Co-Theme -1 Time +1 time.n.08 TPR now
+person.n.01 Role +1 teacher.n.01 female.n.02 Name "مریم" entity.n.01 tell.v.02 Agent -4 Recipient -2 Topic -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ہارون کوپلینڈ" person.n.01 EQU ? be.v.08 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" fall.v.01 Patient -1 Time +1 time.n.08 EQU now
+lake.n.01 deep.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+entity.n.01 true.a.01 Time +1 Proposition >1 time.n.08 EQU now CONTINUATION <0 person.n.01 race.n.02 win.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+tyre.n.02 stick.n.02 PartOf -1 snatch.v.01 Patient -1 Time +1 time.n.08 TPR now
+train.n.01 time.n.08 ClockTime 23:30 leave.v.01 Theme -2 Time -1 Time +1 time.n.08 TSU now
+male.n.02 Name "ٹام" person.n.01 EQU speaker more.r.01 Theme -2 Co-Theme -1 tall.a.01 AttributeOf -3 Degree -1 Time +1 time.n.08 EQU now
+bridge.n.01 water.n.06 pill.n.03 MadeOf -1 water.n.06 pill.n.03 MadeOf -1 be.v.03 Location -3 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" slight.a.03 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer like.v.02 Experiencer -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 entity.n.01 do.v.01 Agent -2 Theme -1 POSSIBILITY <1 time.n.08 EQU now
+male.n.02 Name "ایلس ریولن" person.n.01 EQU ? be.v.08 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 NEGATION <1 time.n.08 NEGATION <1 joke.v.01 Agent -2 Time +1 time.n.08 EQU now
+person.n.01 Role +1 driver.n.01 kiss.v.01 Agent -2 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" string.n.01 throw.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now male.n.02 ANA -3 umbrella.n.01 User -1 scrape.v.06 Agent -5 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker unhappy.a.01 Experiencer -1 Time +1 NEGATION <1 time.n.08 EQU now
+male.n.02 male.n.02 ANA -1 lake.n.01 User -1 stick.v.02 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+entity.n.01 ufo.n.01 look_like.v.02 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker person.n.01 suspect.n.01 Creator -1 entity.n.01 NEGATION <1 know.v.01 Experiencer -3 Stimulus -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 person.n.01 EQU speaker young.a.01 AttributeOf -3 Degree +1 Time +2 more.r.01 Theme -4 Co-Theme -2 time.n.08 EQU now
+male.n.02 EQU speaker person.n.01 EQU hearer trust.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" bow.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 adore.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 wait.v.01 Theme -1 Time +1 time.n.08 TPR now male.n.02 ANA -3 wave.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" ask.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 female.n.02 ANA -3 city.n.01 Name "بوسٹن" be.v.03 Theme -2 Location -1 Time +1 time.n.08 TPR now
+girl.n.01 lightbull.n.01 camono.n.01 MadeOf -1 wear.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now male.n.02 Name "ٹام" well.a.01 Time -2 AttributeOf -1
+lazarot.n.01 state.a.01 AttributeOf -1 EQU ?
+time.n.08 TSU now person.n.01 EQU speaker baseball.n.01 play.v.01 Time -3 Agent -2 Theme -1
+wood.n.01 cost.v.01 Theme -1 Value +3 Time +4 quantity.n.01 EQU 60 pound.n.01 Quantity -1 time.n.08 EQU now
+entity.n.01 kind_of.r.01 funny.a.01 AttributeOf +1 fish.n.01 be.v.01 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" stomach.n.01 PartOf -1 growl.v.01 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker pen.n.01 User -1 steal.v.01 Agent -1 Time +1 time.n.08 TPR now
+NEGATION <1 entity.n.01 NEGATION <1 well.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 toast.n.01 User -1 strawberry_jam.n.01 carry.v.01 Agent -4 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" weigh.v.01 Theme -1 Value +3 Time +4 quantity.n.01 EQU 50 kilogram.n.01 Quantity -1 time.n.08 EQU now
+person.n.01 EQU speaker kind_of.r.01 pleased.a.01 Experiencer -2 Degree -1 Time +1 time.n.08 EQU now
+male.n.02 responsibility.n.01 fed_up.a.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU speaker stare.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+question.n.01 quick.a.03 AttributeOf -1 Time +1 NEGATION <1 time.n.08 EQU now
+mouse.n.01 carrot.n.01 eat.v.01 Agent -2 Patient -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker english.n.01 NEGATION <1 speak.v.03 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "آئن سٹائن" die.v.01 Patient -1 Manner +1 Time +2 manner.n.01 EQU ? time.n.08 TPR now
+male.n.02 Name "ٹام" joke.n.01 NEGATION <1 time.n.08 TPR now joke.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 ANA -1 lip.n.01 PartOf -1 bite.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+squirrel.n.01 tree.n.01 climb.v.01 Agent -2 Location -1 Time +1 time.n.08 TPR now
+ship.n.01 abominable.a.01 AttributeOf +1 ship.n.01 call.v.01 Theme -3 Result -1 Time +1 time.n.08 EQU now
+person.n.01 have.v.01 Pivot -1 Theme +2 Time +3 private_jet.n.01 time.n.08 EQU now
+cottage.n.01 clean.a.01 AttributeOf -1 Time +1 time.n.08 TPR now wipe.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+country.n.02 Name "چین" great.a.01 AttributeOf +1 wall.n.01 Location -2 more.r.01 Theme -1 Value +3 quantity.n.01 EQU 5500 meter.n.01 Quantity -1 long.a.01 Theme -4 Value -1 Time +1 time.n.08 EQU now
+male.n.02 opponent.n.01 man.n.01 Attribute -1 NEGATION <1 be.v.01 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+pen.n.01 User +1 person.n.01 Name ? be.v.02 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+statue.n.01 Name "اسٹیٹ الینڈز" right.a.01 AttributeOf +1 arm.n.01 PartOf -2 quantity.n.01 EQU 42 meter.n.01 Quantity -1 long.a.01 Value -1 Time +1 time.n.08 EQU now
+dinosaur.n.01 river.n.01 walk.v.01 Theme -2 Path -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" car_crash.n.01 over.a.01 AttributeOf -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 mislead.v.02 Agent -2 Co-Agent -1 Time +1 NEGATION <1 time.n.08 TPR now
+male.n.02 Name "ٹام" knife.n.01 wear.v.02 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+dog.n.01 big.a.01 Value + boy.n.01 Attribute -1 attack.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" ball.n.01 lose.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 door.n.01 knock.v.02 Agent -2 Patient -1 Time +1 time.n.08 EQU now
+male.n.02 Name "لوئس ریل" male.n.02 Name "سکاٹ" male.n.02 Name "سکاٹ" murder.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 Name "ٹام" person.n.01 EQU speaker hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker quantity.n.01 EQU 2 hour.n.01 Quantity -1 quantity.n.01 EQU 2 hour.n.01 Quantity -1 spend.v.01 Agent -4 Duration -3 Duration -1 Time +1 time.n.08 TPR now
+person.n.01 busy.a.01 AttributeOf -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 person.n.01 EQU hearer person.n.01 help.v.01 Agent -2 Beneficiary -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" nose.n.01 take_apart.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 person.n.01 EQU speaker more.r.01 Theme -2 Co-Theme -1 tall.a.01 AttributeOf -3 Degree -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 sock.n.01 User -1 inside_out.r.01 drop_off.v.05 Agent -4 Theme -2 Source -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" drunk.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker country.n.02 Name "چینی" take_off.n.01 order.v.02 Agent -2 Theme -1 Time +1 time.n.08 TSU now
+female.n.02 Name "مریم" plastic.n.01 dress.n.01 Colour -1 wear.v.01 Agent -3 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 Role +1 son.n.01 Of -2 high_school.n.01 enter.v.01 Theme -3 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU speaker pinch.v.01 Agent -2 Experiencer -1 Time +1 time.n.08 TPR now
+girl.n.01 flute.n.01 play.v.07 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+house.n.01 corner.n.03 PartOf -1 leak.v.04 Source -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker male.n.02 Name "ٹام" hot_dog.n.02 buy.v.01 Agent -3 Beneficiary -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker telephone_number.n.01 put_on.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 cook.v.01 Agent -1 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 NEGATION <1 song.n.01 sing.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker entity.n.01 find.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+female.n.02 Name "کلاوا" female.n.02 Name "لیوسیا" envy.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 EQU speaker person.n.01 Role +1 boss.n.01 Of -2 sleep_with.v.01 Agent -4 Co-Agent -2 Time +1 time.n.08 TPR now
+entity.n.01 chair.n.01 location.n.01 SZN -1 be.v.03 Theme -3 Location -1 Time +1 time.n.08 EQU now
+country.n.02 Name "جرمنی" most.r.01 high.a.02 Degree -1 mountain.n.01 Location -3 Attribute -1 entity.n.01 Name ? be.v.02 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker topic.n.01 pick_up.v.02 Agent -2 Theme -1 like.v.02 Experiencer -3 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 say.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 person.n.01 ANA -3 lucky.a.02 AttributeOf -1 Time +1 time.n.08 TPR now
+chemical.n.01 country.n.02 Name "فرانس" import.v.01 Theme -2 Source -1 Time +1 time.n.08 EQU now
+all_of_a_sudden.r.01 male.n.02 Name "لز موہن" collaborate.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now CONTINUATION <1 male.n.02 Name "لز موہن" collaborate.v.01 Theme -1 Time +1 time.n.08 TPR now
+entity.n.01 person.n.01 Name ? ring.n.07 User -1 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 die.v.01 Patient -1 Causer +1 Time +2 ling_cancer.n.01 cause.v.01 Patient -3 Causer -1 Time +1 time.n.08 TPR now
+female.n.02 street.n.01 leave.v.01 Theme -2 Source -1 Time +1 time.n.08 TPR now
+entity.n.01 cost.v.01 Theme -1 Value +3 Time +4 quantity.n.01 EQU 30 euro.n.01 Quantity -1 time.n.08 TSU now
+entity.n.01 bed.n.01 User +1 person.n.01 Name ? be.v.02 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker apple.n.01 eat.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker very.r.01 pleased.a.01 Experiencer -2 Degree -1 Time +1 time.n.08 EQU now
+NEGATION <1 new.a.01 AttributeOf +1 jet.n.01 quantity.n.01 EQU 24 hour.n.01 Quantity -1 ground.n.01 cover.v.01 Theme -4 Duration -2 Location -1 Time +1 time.n.08 TPR now
+person.n.01 Role +1 scientist.n.01 person.n.01 EQU speaker entity.n.01 NEGATION <1 leave.v.02 Agent -3 Source -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker fish.n.02 catch.v.04 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 cheek.n.01 PartOf -1 massage.v.01 Agent -3 Patient -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker quantity.n.01 EQU 6 egg.n.02 Quantity -1 buy.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+train.n.01 quantity.n.01 EQU 6 hour.n.01 Quantity -1 last.v.01 Theme -3 Value -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" entity.n.01 Sub -1 Sub +1 female.n.02 Name "مریم" play.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+university.n.03 Name "میلان یونیورسٹی" male.n.02 Name "جیان انٹونیو میگی" entity.n.01 Sub -1 Sub +1 male.n.02 Name "جولیو ویوانٹی" find.v.01 Agent -4 Theme -2 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker time.n.08 YearOfCentury 1979 bear.v.02 Patient -2 Time -1 Time +1 time.n.08 TPR now
+glasses.n.01 watch.n.01 PartOf -1 table.n.02 bubble.v.01 Theme -2 Path -1 Time +1 time.n.08 TPR now
+mr.n.01 male.n.02 Name "جوئل" Title -1 time.n.08 EQU now duty.n.03 be.v.03 Theme -3 Time -2 Location -1 Time +1 time.n.08 EQU now
+female.n.02 Name "مریم" female.n.02 ANA -1 mochine.n.01 buy.v.01 Agent -3 Beneficiary -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ڈین" arrest.v.01 Patient -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now person.n.01 jealous.a.02 Time -2 AttributeOf -1
+person.n.01 EQU speaker cd.n.04 like.v.02 Experiencer -2 Stimulus -1 Time +1 NEGATION <1 time.n.08 EQU now
+movie.n.01 time.n.08 ClockTime 22:00 begin.v.03 Theme -2 Time -1 Time +1 time.n.08 TSU now
+door.n.01 funny.a.01 AttributeOf +1 man.n.01 be.v.03 Location -3 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 baby.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 TPR now CONTRAST <1 male.n.02 ANA -3 baby.n.01 NEGATION <1 suffer.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker time.n.08 ClockTime 23:30 return.v.01 Theme -2 Time -1 Time +1 time.n.08 TSU now
+male.n.02 Name "ٹام" knife.n.01 cheese.n.01 put.v.01 Agent -3 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now person.n.01 EQU hearer whitewine.n.01 like.v.02 Time -3 Experiencer -2 Stimulus -1
+city.n.01 Name "پیرس" ice.n.01 catch.v.19 Location -2 Theme -1 Time +1 time.n.08 EQU now
+man.n.01 meat.n.01 eat.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" entity.n.01 Sub -1 Sub +1 female.n.02 Name "مریم" ping-pong.n.01 play.v.01 Agent -3 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 gas_station.n.01 work.v.02 Agent -3 Location -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 see.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" house.n.01 User -1 entity.n.01 pie.n.01 Creator -1 easy.a.01 AttributeOf -3 Degree -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker fish.n.02 grill.v.01 Agent -2 Patient -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU hearer blame.v.01 Agent -2 Theme -1 Time +1 NEGATION <1 time.n.08 TPR now
+person.n.01 EQU speaker street.n.01 person.n.01 Role +1 brother.n.01 Of -2 run_into.v.04 Agent -5 Location -4 Co-Agent -3 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" phone.n.01 User -1 towel.n.01 put.v.01 Agent -4 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker male.n.02 Name "ٹام" school.n.07 drive.v.03 Agent -3 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 EQU speaker time.n.08 ClockTime 17:00 home.n.01 leave.v.01 Theme -3 Time -2 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" bark.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 jacket.n.01 User -1 milk.n.01 throw.v.01 Agent -3 Source -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker freak_out.v.01 Experiencer -1 start.v.01 PartOf -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" female.n.02 Name "مریم" afraid.a.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+continent.n.01 Name "یورپ" floor.n.01 destroy.v.01 Patient -2 Causer -1 Time +1 time.n.08 EQU now
+troop.n.01 arm.n.01 Quantity + have.v.02 Pivot -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 brainwash.v.02 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker outgoing.a.03 AttributeOf -1 Time +1 NEGATION <1 time.n.08 EQU now
+NEGATION <1 person.n.01 delicious.a.01 AttributeOf +1 boy.n.01 like.v.02 Experiencer -3 Stimulus -1 Time +1 time.n.08 EQU now
+time.n.08 EQU now book.n.02 time.n.08 EQU now book.n.02 User +1 company.n.01 Name "تکیو" be.v.02 Time -4 Theme -3 Co-Theme -2
+male.n.02 Name "ٹام" busy.a.01 AttributeOf -1 Time +1 POSSIBILITY <1 time.n.08 EQU now
+person.n.01 EQU hearer spranto.n.01 learn.v.01 Agent -2 Theme -1 start.v.01 PartOf -1 Time +1 time.n.08 TPR now
+person.n.01 private_investigation.n.01 Creator -1 male.n.02 ANA -3 hire.v.01 Agent -3 Theme -2 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 week.n.01 TAB -1 see.v.01 Experiencer -4 Stimulus -3 Time -2 Time +1 time.n.08 TPR now
+dog.n.01 dog.n.01 sob.v.01 Agent -2 Location -1 Time +1 time.n.08 EQU now
+city.n.01 Name "لیورپول" musical_organization.n.01 Name ? musical_organization.n.01 Name ? battle.v.01 Location -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 male.n.02 ANA -1 clesset.n.01 User -1 wipe.v.01 Agent -3 Source -1 Time +1 time.n.08 EQU now
+person.n.01 tired.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" male.n.02 ANA -1 golden_bag.n.01 User -1 male.n.02 ANA -3 tent.n.01 User -1 sling.v.02 Agent -5 Theme -3 Destination -1 Time +1 time.n.08 TPR now
+school.n.03 time.n.08 ClockTime 20:30 begin.v.03 Theme -2 Time -1 Time +1 time.n.08 TSU now
+time.n.08 EQU now person.n.01 EQU hearer music.n.01 like.v.02 Time -3 Experiencer -2 Stimulus -1
+country.n.02 Name "اٹلی" country.n.02 Name "قازقستان" country.n.02 Name "قازقستان" beat.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+typhoon.n.01 person.n.01 Role +1 avid.a.02 AttributeOf +1 gold.n.02 push.v.02 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 country.n.02 Name "جرمنی" straight.r.05 go.v.01 Theme -4 Duration -2 Source -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" cage.n.03 unlock.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker person.n.01 maid.n.01 elect.v.01 Agent -3 Theme -2 Result -1 Time +1 time.n.08 TPR now
+world.n.04 most.r.01 big.a.01 Degree -1 island.n.01 Location -3 Attribute -1 entity.n.01 Name ? be.v.02 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 stop.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 beer.n.01 drink.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker insomnia.n.01 feel.v.03 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker wine.n.01 bag.v.05 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 room.n.01 unlock.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now entity.n.01 well.a.01 Time -2 AttributeOf -1
+person.n.01 EQU speaker name.n.01 Bearer -1 name.n.01 EQU "ایمیلی" be.v.06 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+entity.n.01 person.n.01 favorite.a.02 Experiencer -1 Stimulus +1 country.n.02 Name "اٹالین" word.n.01 Creator -2 be.v.02 Theme -5 Co-Theme -1 Time +1 time.n.08 EQU now
+entity.n.01 kind_of.r.01 see.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 book.n.02 want.v.01 Pivot -2 Theme -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 male.n.02 ANA -3 book.n.02 give.v.03 Agent -3 Recipient -2 Theme -1 POSSIBILITY <1
+male.n.02 Name "ٹام" dumbfounded.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+person.n.01 Name ? leave.v.01 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 time.n.08 ClockTime 00:00 sleep_with.v.01 Agent -2 Time -1 Time +1 time.n.08 TPR now
+person.n.01 letter.n.02 allergic.a.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+cat.n.01 chew.v.01 Agent -1 Time +1 time.n.08 EQU now
+time.n.08 EQU now cat.n.01 dream.v.01 Time -2 Experiencer -1
+all_of_a_sudden.r.02 male.n.02 Name "جان اروینگ" co-work.v.02 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now male.n.02 Name "جان اروینگ" Co-Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker golfbag.n.01 User -1 location.n.01 Name ? be.v.03 Theme -2 Location -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" guitar.n.01 play.v.03 Agent -2 Theme -1 Time +1 time.n.08 TPR now CONTINUATION <1 female.n.02 Name "مریم" sing.v.02 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker potato.n.01 carve.v.01 Agent -2 Product -1 Time +1 time.n.08 EQU now
+boat.n.01 boat.n.01 boat.n.01 boat.n.01 PartOf -1 slope.n.01 Creator -1 fasten.v.01 Patient -4 Co-Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" in_public.r.01 sing.v.03 Agent -2 Manner -1 Time +1 NEGATION <1 time.n.08 EQU now
+male.n.02 Name "ٹام" have.v.01 Pivot -1 Theme +1 Time +2 ring.n.07 time.n.08 EQU now
+female.n.02 Name "مریم" leg.n.01 PartOf -1 good.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer scrow.v.03 Agent -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer nuts.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "اسٹیو" black.a.01 trutle_nock.n.01 Colour -1 wear.v.01 Agent -3 Theme -1 Time +1 time.n.08 EQU now
+female.n.02 Name "مریم" bark.v.04 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" time.n.08 day.n.01 stab.v.01 Agent -2 Time -1 Theme +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 arm.n.01 PartOf -1 unscrew.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 ANA -1 marry.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+country.n.02 Name "جاپان" sea.n.01 PartOf -1 continent.n.01 Name "جاپان" continent.n.01 Name "جاپان" continent.n.01 Name "ایشیا" separate.v.01 Causer -3 Patient -2 Co-Patient -1 Time +1 time.n.08 EQU now
+election.n.01 time.n.08 DayOfWeek monday take_place.v.01 Theme -2 Time -1 Time +1 time.n.08 TPR now
+rain.n.01 inside_out.r.01 NEGATION <1 hide.v.02 Theme -2 Attribute -1 Time +1 NEGATION <1 time.n.08 EQU now
+person.n.01 EQU speaker angry.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+city.n.01 Name "ایٹی اے" location.n.01 Name ? be.v.03 Theme -2 Location -1 Time +1 time.n.08 EQU now
+time.n.08 EQU now entity.n.01 male.n.02 Name "ٹام" bag.n.01 User -1 be.v.02 Time -4 Theme -3 Co-Theme -1
+male.n.02 Name "ٹام" male.n.02 ANA -1 bed.n.01 User -1 location.n.01 SZN +2 male.n.02 ANA -3 person.n.01 Role +1 mother.n.01 Of -2 entity.n.01 find.v.01 Agent -5 Theme -2 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 EQU speaker dress.n.01 User -1 fasten.v.01 Agent -3 Patient -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker entity.n.01 find.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 potato.n.01 love.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+male.n.02 person.n.01 EQU speaker more.r.01 Theme -2 Co-Theme -1 short.a.03 AttributeOf -3 Degree -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker baffle.v.01 Agent -1 Time +1 NEGATION <1 time.n.08 TSU now
+person.n.01 EQU speaker person.n.01 EQU hearer head.n.01 PartOf -1 gold.n.03 Colour -1 take.v.04 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 happy.a.01 Experiencer -1 Time +1 NEGATION <1 time.n.08 EQU now
+NEGATION <1 small.a.01 Value + cat.n.01 Attribute -1 name.n.01 EQU "تورا" call.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now NEGATION <1 name.n.01 EQU "تورا" call.v.01 Theme -2 Result -1 Time +1 time.n.08 EQU now
+male.n.02 come.v.02 Theme -1 Time +1 NEGATION <1 time.n.08 TPR now
+male.n.02 Name "جان" female.n.02 Name "مریم" money.n.01 donate.v.01 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer hat.n.01 wear.v.01 Theme -2 Agent -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 person.n.01 EQU hearer entity.n.01 person.n.01 EQU -1 wear.v.01 Agent -4 Theme -2 Time +1 time.n.08 TPR now
+male.n.02 movie.n.01 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker NECESSITY <1 person.n.01 EQU speaker watch.n.01 User -1 repair.v.01 Agent -3 Patient -1 Time +1 time.n.08 EQU now
+weigh.v.01 Theme +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 80 kilogram.n.01 Quantity -1 time.n.08 EQU now
+tie.n.01 measure.n.02 Quantity ? cost.v.01 Beneficiary -3 Theme -2 Value -1 Time +1 time.n.08 EQU now
+time.n.08 EQU now entity.n.01 law.n.03 legal.a.01 Time -2 AttributeOf -1
+person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 NEGATION <1 study.v.05 Agent -2 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker french.n.01 be.v.03 Theme -2 Source -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 ANA -1 bicycle.n.01 User -1 red.a.01 ColourOf -1 dye.v.01 Agent -4 Patient -2 Result -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" strike.v.03 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 ANA -1 book.n.01 title.n.02 Creator -1 stare.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 be.v.02 Theme -4 Co-Theme -2 Time +1 time.n.08 EQU now
+war.n.01 Name "دوسری جنگ عظیم" rock.n.06 technology.n.01 Creator -1 excel.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+mouse.n.01 tea.n.01 caldroon.n.01 throw.v.01 Agent -3 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 black.a.01 dye.v.01 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 hatred.n.01 wear.v.02 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" NEGATION <1 person.n.01 NEGATION <1 question.n.02 NEGATION <1 answer.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+apple.n.01 red.a.01 ColourOf -1 Time +1 time.n.08 EQU now red.a.01 ColourOf -2 Time +1 time.n.08 EQU now red.a.01 ColourOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" quantity.n.01 EQU 10 pistol.n.01 Quantity -1 score.v.01 Theme -3 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker time.n.08 DayOfMonth 10 MonthOfYear 4 YearOfCentury 1972 time.n.08 EQU -1 bear.v.02 Patient -4 Time -3 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" person.n.01 EQU speaker entity.n.01 NEGATION <1 tell.v.02 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 head_up.n.01 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 ANA -1 disagreeable.a.01 AttributeOf -1 smile.v.02 Agent -3 Recipient -1 Time +1 time.n.08 TPR now
+spoon.n.01 white.a.01 knife.n.01 Colour -1 look_like.v.01 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now
+person.n.01 book.n.02 person.n.01 ANA -2 bag.n.01 User -1 put.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker soccer.n.01 wash.v.01 Agent -2 Patient -1 Time +1 time.n.08 TSU now
+person.n.01 EQU speaker person.n.01 EQU speaker eye.n.01 PartOf -1 check.v.03 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now person.n.01 EQU speaker explanation.n.01 Creator -1 lazy.a.02 Time -3 AttributeOf -1
+male.n.02 Name "ٹام" bark.v.01 Agent -1 Time +1 time.n.08 TPR now
+female.n.02 person.n.01 help.v.01 Agent -2 Beneficiary -1 Time +1 time.n.08 TPR now
+male.n.02 window.n.01 sit.v.01 Agent -2 Manner -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" male.n.02 ANA -1 tooth.n.01 PartOf -1 rope.n.01 put.v.01 Agent -4 Patient -2 Result -1 Time +1 time.n.08 TPR now
+female.n.02 flower.n.01 short.a.03 AttributeOf -1 short.a.03 AttributeOf +1 Time +2 entity.n.01 InstanceOf +1 Time +3 be.v.01 Theme -4 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker hatomay.n.02 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker chess.n.02 male.n.02 Name "ٹام" beat.v.01 Agent -3 Theme -2 Co-Agent -1 NEGATION <1 POSSIBILITY <1
+male.n.02 Name "ٹام" female.n.02 Name "مریم" coctail.n.01 give.v.03 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 field.n.01 plow.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+state.a.01 AttributeOf +1 development.n.01 prosper.v.01 Goal -2 Theme +1 state.a.01 AttributeOf +1 development.n.01 NEGATION <1 state.a.01 AttributeOf +1 development.n.01 NEGATION <1 state.a.01 AttributeOf +1 development.n.01 NEGATION <1 tickle.v.01 Experiencer -3 Stimulus -1 Time +1 time.n.08 EQU now
+woman.n.01 electric_guitar.n.01 play.v.07 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+country.n.02 Name "اٹلی" quantity.n.01 EQU 2 mountain.n.01 Quantity -1 location.n.01 STI +1 quantity.n.01 EQU 2 mountain.n.01 Quantity -2 location.n.01 SZN -1 be.v.03 Location -4 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" milk.n.01 drink.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" country.n.02 Name "سوئس" cheese.n.01 Source -1 like.v.02 Experiencer -3 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker island.n.01 Name "یوکوہاما" cobble.n.04 go.v.01 Theme -3 Source -2 Destination -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" favorite.a.02 Experiencer -1 Stimulus +1 song.n.01 be.v.02 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker jadwa.n.01 practice.v.03 Agent -2 Location -1 Time +1 time.n.08 EQU now
+female.n.02 NEGATION <1 time.n.08 NEGATION <1 school.n.03 go.v.01 Theme -3 Destination -2 Time +1 time.n.08 EQU now
+person.n.01 string.n.01 person.n.01 ANA -2 hand.n.01 PartOf -1 fasten.v.01 Agent -4 Patient -3 Instrument -1 Time +1 time.n.08 TPR now
+foot.n.01 pulse.n.03 Creator -1 shaky.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker sarcasm.n.01 party.n.01 Name "سیرچ پارٹی" organize.v.03 Agent -2 Result -1 Time +1 time.n.08 EQU now
+female.n.02 Name "مریم" entity.n.01 envy.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker NECESSITY <1 time.n.08 TSU now person.n.01 EQU speaker report.n.01 Creator -1 play.v.07 Agent -4 Time -3 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" NEGATION <1 quiet.a.02 AttributeOf -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 EQU speaker cat.n.01 Owner -1 sleep_with.v.01 Agent -3 Location -1 Time +1 time.n.08 TPR now
+male.n.02 entity.n.01 buy.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now CONSEQUENCE <1 entity.n.01 ANA -3 person.n.01 buy.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 jealous.a.01 Experiencer -1 Time +1 time.n.08 TSU now jealous.a.01 Experiencer -3 Time +1 time.n.08 TSU now
+bed.n.01 location.n.01 SZN -1 hide.v.02 Agent -3 Location -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹام" person.n.01 EQU speaker lick.v.02 Agent -2 Source -1 Time +1 time.n.08 EQU now
+person.n.01 music.n.01 Creator -1 city.n.01 Name "ویانا" try.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 married.a.01 AttributeOf +1 person.n.01 mislead.v.02 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU speaker bag.n.01 User -1 steal.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+girl.n.01 knit.v.01 good.a.01 AttributeOf +1 girl.n.01 be.v.01 Theme -3 Co-Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker credit_card.n.01 have.v.16 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker month.n.02 Quantity + TAB now time.n.08 TAB -1 male.n.02 Name "ٹام" meet.v.02 Agent -4 Time -3 Co-Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer language.n.01 Quantity ? speak.v.03 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer person.n.01 Role +1 sister.n.01 Of -2 die.v.01 Patient -2 Manner +1 Time +2 manner.n.01 EQU ? time.n.08 TPR now
+entity.n.01 Sub -1 Sub +1 male.n.02 Name "سینڈرا میشبرگر" entity.n.01 Sub +1 female.n.02 Name "سینڈرا میشبرگر" male.n.02 Name "سینڈرا میشبرگر" male.n.02 Name "سینڈرا میشبرگر" male.n.02 Name "سینڈرا میشبرگر" male.n.02 Name "سینڈرا میشبرگر" Co-Agent -2 male.n.02 Name "سینڈرا میشبرگر" male.n.02 Name "سینڈرا میشبرگر" Co-Agent -2 male.n.02 Name "سینڈرا میشبرگر" male.n.02 Name "سینڈرا می
+person.n.01 dark_skier.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+male.n.02 EQU speaker store.n.01 go.v.01 Theme -2 Destination -1 Time +1 time.n.08 EQU now
+time.n.08 EQU now male.n.02 Name "رابن ہڈ" alive.a.01 Time -2 AttributeOf -1
+person.n.01 person.n.01 ANA -1 tooth.n.01 PartOf -1 bite.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" week.n.01 day.n.03 Location -2 Time -1 picture.n.01 show.v.04 Agent -4 Duration -2 Location -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ال شارپٹن" person.n.01 EQU ? be.v.08 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+swan.n.01 flower.n.01 brighten.v.02 Patient -2 Location -1 Time +1 time.n.08 TPR now
+male.n.02 Name "گیبی باؤر" co-worker.n.01 Quantity + person.n.01 Quantity + Role +1 gabby_bor.n.01 elect.v.01 Agent -4 Co-Agent -2 Time +1 time.n.08 TPR now
+state.n.04 Name "کینیڈا" state.n.01 Name "امریکہ" beat.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 EQU speaker dump.v.02 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 wall.n.01 location.n.01 SXP -1 stand.v.01 Theme -3 Location -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker drink.n.01 eat.v.01 Agent -2 Patient -1 Time +1 NEGATION <1 time.n.08 TPR now
+male.n.02 time.n.08 YearOfCentury 1980 bear.v.02 Patient -2 Time -1 Time +1 time.n.08 TPR now
+bug.n.01 location.n.01 Name ? be.v.03 Theme -2 Location -1 Time +1 time.n.08 EQU now
+male.n.02 Name "ٹیڈ" male.n.02 ANA -1 person.n.01 Role +1 wife.n.01 Of -2 female.n.02 Name "الزبتھ" love.v.01 Experiencer -4 Stimulus -1 Time +1 time.n.08 EQU now
+building.n.01 quantity.n.01 EQU 10 story.n.01 Quantity -1 high.a.02 Theme -3 Value -1 Time +1 time.n.08 EQU now
+time.n.08 TPR now male.n.02 Name "ٹام" try.v.01 Time -2 Agent -1
+male.n.02 Name "ٹام" bucket.n.01 good-for-nothing.a.01 AttributeOf -1 see.v.01 Experiencer -3 Stimulus -1 Time +1 time.n.08 TPR now
+entity.n.01 cost.v.01 Theme -1 Value +2 Time +3 quantity.n.01 EQU 1 dollar.n.01 Quantity -1 time.n.08 TPR now
+cat.n.01 new.a.01 AttributeOf +1 mouse.n.01 play.v.05 Agent -3 Co-Agent -1 Time +1 time.n.08 TPR now
+male.n.02 breathe.v.01 Agent -1 Time +1 NEGATION <1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 EQU speaker poem.n.01 Creator -1 score.n.03 Value A get.v.09 Agent -3 Theme -2 Source -1 Time +1 time.n.08 TPR now
+door.n.01 time.n.08 EQU now closed.a.01 AttributeOf -2 Time -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker person.n.01 EQU speaker tooth.n.01 PartOf -1 brush.v.03 Agent -3 Patient -1 Time +1 time.n.08 EQU now
+male.n.02 Name "جان" room.n.01 walk.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+person.n.01 dishonest.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+female.n.02 Name "مریم" female.n.02 ANA -1 water.n.06 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+NEGATION <1 number.n.02 NEGATION <1 bat.v.01 Agent -1 Time +1 time.n.08 EQU now
+person.n.01 person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 mistake.n.03 Creator -2 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker bright.a.01 AttributeOf +1 chess.n.02 love.v.01 Experiencer -3 Stimulus -1 Time +1 time.n.08 EQU now
+book.n.02 cost.v.01 Theme -1 Value +3 Time +4 quantity.n.01 APX +1 quantity.n.01 EQU 5 dollar.n.01 Quantity -2 time.n.08 EQU now
+picture.n.01 person.n.01 Name ? picture.v.01 Theme -2 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <1 entity.n.01 person.n.01 Name ? paint.v.02 Result -2 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker NEGATION <1 time.n.08 NEGATION <1 letter.n.01 read.v.01 Agent -3 Source -1 Time +1 time.n.08 EQU now
+mountain.n.01 mountain.n.01 Name "ماؤنٹ فوجی" as.r.01 Theme -2 Co-Theme -1 high.a.01 AttributeOf -3 Degree -1 Time +1 NEGATION <1 time.n.08 EQU now
+person.n.01 EQU speaker bee.n.01 pinch.v.01 Agent -2 Experiencer -1 Time +1 time.n.08 TPR now
+person.n.01 person.n.01 ANA -1 tripod.n.01 User -1 buy.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+small.a.01 Value + mountain.n.01 Attribute -1 city.n.01 come.v.08 Theme -2 Source -1 Time +1 time.n.08 TPR now
+time.n.08 EQU now person.n.01 EQU speaker right.a.01 Time -2 AttributeOf -1
+time.n.08 ClockTime 08:55 EQU now time.n.08 EQU -1
+squirrel.n.01 tree.n.01 hide.v.02 Agent -2 Location -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer zip_up.n.01 User -1 open.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+male.n.02 Name "لیو ٹالسٹائی" vegetable.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 TPR now
+dog.n.01 pier.n.01 ring.n.07 stand.v.01 Agent -2 Location -1 Time +1 time.n.08 TPR now
+male.n.02 Name "ٹام" school.n.02 n.02 n.02 entity.n.01 Sub -1 Sub +1 score.n.03 Value A get.v.09 Agent -4 Co-Agent -2 Theme -1 Time +1 time.n.08 TPR now
+entity.n.01 person.n.01 Name ? do.v.02 Theme -2 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <1 entity.n.01 ANA -3 do.v.02 Theme -1 Time +1 time.n.08 TPR now
